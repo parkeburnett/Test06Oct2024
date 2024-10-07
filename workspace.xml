@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="497f3e97-bab2-43dc-9eee-97f51cc26592" name="Changes" comment="Update PB22Sep2024" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;park.burnett&quot;,
+      &quot;fullname&quot;: &quot;Parke Burnett&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/wgu-gitlab-environment/student-repos/park.burnett/d387-advanced-java.git&quot;,
+    &quot;second&quot;: &quot;424660aa-4e1b-4763-a664-359c9648db68&quot;
+  }
+}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="openjdk-22" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2e9hJgzunXgjy5xblOyTyQXfdJf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Maven.D387_sample_code [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.D387_sample_code [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.D387_sample_code [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.D387_sample_code [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.D387_sample_code [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.D387_sample_code [site].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.D387_sample_code [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.D387_sample_code [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.D387_sample_code [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.D387SampleCodeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;PBD387&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Park/IdeaProjects/d387-advanced-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.3.6\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Park\IdeaProjects\d387-advanced-java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.D387SampleCodeApplication">
+    <configuration name="MessageService" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/src/main/UI/karma.conf.js" />
+      <karma-package-dir value="" />
+      <working-directory value="$PROJECT_DIR$/src/main/UI" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file-path value="$PROJECT_DIR$/src/main/UI/src/app/message.service.spec.ts" />
+      <test-names>
+        <test-name value="MessageService" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="D387SampleCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="D387_sample_code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.wgu.d387_sample_code.D387SampleCodeApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.wgu.d387_sample_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Karma.MessageService" />
+      <item itemvalue="Spring Boot.D387SampleCodeApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.D387SampleCodeApplication" />
+        <item itemvalue="Karma.MessageService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="497f3e97-bab2-43dc-9eee-97f51cc26592" name="Changes" comment="" />
+      <created>1711322631716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711322631716</updated>
+      <workItem from="1711322636951" duration="7360000" />
+      <workItem from="1711480575706" duration="9060000" />
+      <workItem from="1711990215981" duration="2208000" />
+      <workItem from="1712100151370" duration="4685000" />
+      <workItem from="1713730744704" duration="7085000" />
+      <workItem from="1717278986083" duration="961000" />
+      <workItem from="1717279979917" duration="419000" />
+      <workItem from="1725735345287" duration="951000" />
+      <workItem from="1725736311976" duration="8028000" />
+      <workItem from="1727031782947" duration="1035000" />
+      <workItem from="1727034897401" duration="3824000" />
+      <workItem from="1727049201178" duration="170000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added resource bundles for the English and French languages in Canada and included a welcome to Landon message in each">
+      <option name="closed" value="true" />
+      <created>1711331397462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711331397462</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implemented controllers and services to generate localized messages and deliver them to the frontend for display within the application.">
+      <option name="closed" value="true" />
+      <created>1711505781048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711505781048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implemented controllers and services to generate localized messages and deliver them to the frontend for display within the application.">
+      <option name="closed" value="true" />
+      <created>1711990775593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711990775593</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added TimeZoneController.java for date time parsing and timezone conversion, added time service to call the api">
+      <option name="closed" value="true" />
+      <created>1712108756439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712108756439</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added code to display message with times in the application.">
+      <option name="closed" value="true" />
+      <created>1712110588432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712110588432</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Dockerfile to create image of spring application.">
+      <option name="closed" value="true" />
+      <created>1712111035200</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712111035200</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Edited Dockerfile to import OpenJDK 17.">
+      <option name="closed" value="true" />
+      <created>1713731444535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713731444535</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Edited pom.xml to accept newer lombok package. PB7Sep2024">
+      <option name="closed" value="true" />
+      <created>1725747574723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725747574723</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Edited pom.xml to accept newer lombok package. PB7Sep2024">
+      <option name="closed" value="true" />
+      <created>1725748258784</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725748258784</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update PB22Sep2024">
+      <option name="closed" value="true" />
+      <created>1727048839202</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727048839202</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added resource bundles for the English and French languages in Canada and included a welcome to Landon message in each" />
+    <MESSAGE value="Implemented controllers and services to generate localized messages and deliver them to the frontend for display within the application." />
+    <MESSAGE value="Added TimeZoneController.java for date time parsing and timezone conversion, added time service to call the api" />
+    <MESSAGE value="Added code to display message with times in the application." />
+    <MESSAGE value="Added Dockerfile to create image of spring application." />
+    <MESSAGE value="Edited Dockerfile to import OpenJDK 17." />
+    <MESSAGE value="Edited pom.xml to accept newer lombok package. PB7Sep2024" />
+    <MESSAGE value="Update PB22Sep2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update PB22Sep2024" />
+  </component>
+</project>
